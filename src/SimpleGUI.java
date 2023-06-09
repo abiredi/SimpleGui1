@@ -9,7 +9,6 @@ public class SimpleGUI extends JFrame implements ActionListener{
     //declaring the required parts
     JFrame frame;
     JTextField name;
-
     JButton newwindow;
     JPanel panel;
     public SimpleGUI(){ //default constructor
